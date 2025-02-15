@@ -1,16 +1,20 @@
-## Hi there 👋
+# **👋 Hi, I'm Abhinav Annareddy!**  
 
-<!--
-**abhinavannareddy/abhinavannareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📈 **Finance | Data Science | Algorithmic Trading**  
 
-Here are some ideas to get you started:
+I’m a finance enthusiast with a strong interest in **quantitative analysis, investment research, and financial modeling**. I specialize in leveraging **data analytics and machine learning** to extract insights from financial markets and build data-driven strategies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **💡 What I Do**  
+✅ **Financial Data Analysis** – Market trend analysis, risk modeling, and portfolio optimization.  
+✅ **Algorithmic Trading** – Developing and backtesting trading strategies.  
+✅ **Machine Learning in Finance** – Predictive modeling, sentiment analysis, and volatility forecasting.  
+✅ **FinTech & Blockchain** – Exploring DeFi trends and smart contract analytics.  
+
+---
+
+## **📬 Let’s Connect!**  
+📩 **Email:** [abhinavannareddy@gmail.com]   
+💼 **LinkedIn:** [https://www.linkedin.com/in/abhinav2202/]  
+🔔 **Follow me for finance and data-driven insights!**  
