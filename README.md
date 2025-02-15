@@ -16,5 +16,5 @@ I’m a finance enthusiast with a strong interest in **quantitative analysis, in
 
 ## **📬 Let’s Connect!**  
 📩 **Email:** [abhinavannareddy@gmail.com]   
-💼 **LinkedIn:** [https://www.linkedin.com/in/abhinav2202/]  
+💼 **LinkedIn:** [https://www.linkedin.com/in/abhinav2448/]  
 🔔 **Follow me for finance and data-driven insights!**  
